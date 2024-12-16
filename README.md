@@ -57,7 +57,16 @@ Este proyecto es una aplicación de gestión de tareas desarrollada con Streamli
     ```
 
 2. Abre tu navegador web y ve para interactuar con la aplicación.
-![image](https://github.com/user-attachments/assets/e7e20a8c-b3a4-44dd-aafb-adeec4dada85)
-![image](https://github.com/user-attachments/assets/9ddabd3e-e5a8-47f4-9180-8a492243c2c1)
+- En la primera vista de Agregar Tarea, podras agregar el título y su descripción.
+ ![image](https://github.com/user-attachments/assets/aa794b7f-433b-4d33-a8a8-9cae0ac1345b)
+
+
+- En la vista de ver Tareas, podrás ver todas las tareas con su título, descripción y estado.
+- La opción de exportar las tareas en un archivo JSON mediante un botón.
+- Poder Eliminar las tareas completadas mediante un botón.
+- Importar tareas desde un archivo JSON.
+- Cuando seleccionas la casilla de checkbox se actualiza el estado de la tarea a realizado
+
+![image](https://github.com/user-attachments/assets/fc78eb7e-8e31-4526-9f23-d3fcdc3a1841)
 
 
