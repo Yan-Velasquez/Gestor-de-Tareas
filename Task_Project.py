@@ -18,12 +18,12 @@ class Tarea(Base):
     id = Column(Integer, primary_key=True, autoincrement=True)
     titulo = Column(String, nullable=False)
     descripcion = Column(String, nullable=False)
-    estado = Column(Boolean, default=False)  # False = Pendiente, True = Completada
+    estado = Column(Boolean, default=False)
 
 # Crear conexión a la base de datos SQLite
 engine = create_engine('sqlite:///taks.db')
 Base.metadata.create_all(engine)
-#SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+
 Session = sessionmaker(bind=engine)
 session = Session()
 
