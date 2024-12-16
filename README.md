@@ -52,4 +52,7 @@ Este proyecto es una aplicación de gestión de tareas desarrollada con Streamli
     ```
 
 2. Abre tu navegador web y ve para interactuar con la aplicación.
+![image](https://github.com/user-attachments/assets/e7e20a8c-b3a4-44dd-aafb-adeec4dada85)
+![image](https://github.com/user-attachments/assets/9ddabd3e-e5a8-47f4-9180-8a492243c2c1)
+
 
