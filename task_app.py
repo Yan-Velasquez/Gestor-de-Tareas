@@ -116,4 +116,4 @@ elif opcion == "Ver Tareas":
         if st.button("Eliminar Completadas"):
             st.success(eliminar_tareas_completadas())
             st.rerun()
-    
+            
