@@ -20,8 +20,8 @@ Este proyecto es una aplicación de gestión de tareas desarrollada con Streamli
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu_usuario/gestion-de-tareas.git
-    cd gestion-de-tareas
+    git clone https://github.com/Yan-Velasquez/Gestor-de-Tareas.git
+    cd Gestor-de-Tareas
     ```
 
 2. Crea un entorno virtual:
@@ -43,6 +43,11 @@ Este proyecto es una aplicación de gestión de tareas desarrollada con Streamli
     ```sh
     pip install -r requirements.txt
     ```
+5. Instalación de librerias
+    ```sh
+    pip install streamlit
+    pip install sqlalchemy
+    ```
 
 ## Uso
 
@@ -52,4 +57,7 @@ Este proyecto es una aplicación de gestión de tareas desarrollada con Streamli
     ```
 
 2. Abre tu navegador web y ve para interactuar con la aplicación.
+![image](https://github.com/user-attachments/assets/e7e20a8c-b3a4-44dd-aafb-adeec4dada85)
+![image](https://github.com/user-attachments/assets/9ddabd3e-e5a8-47f4-9180-8a492243c2c1)
+
 
