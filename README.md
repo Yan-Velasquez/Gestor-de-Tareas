@@ -43,6 +43,11 @@ Este proyecto es una aplicación de gestión de tareas desarrollada con Streamli
     ```sh
     pip install -r requirements.txt
     ```
+5. Instalación de librerias
+    ```sh
+    pip install streamlit
+    pip install sqlalchemy
+    ```
 
 ## Uso
 
