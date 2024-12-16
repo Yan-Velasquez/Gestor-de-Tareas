@@ -20,8 +20,8 @@ Este proyecto es una aplicación de gestión de tareas desarrollada con Streamli
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu_usuario/gestion-de-tareas.git
-    cd gestion-de-tareas
+    git clone https://github.com/Yan-Velasquez/Gestor-de-Tareas.git
+    cd Gestor-de-Tareas
     ```
 
 2. Crea un entorno virtual:
